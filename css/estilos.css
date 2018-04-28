@@ -1,0 +1,34 @@
+
+p{
+
+	font-family: 'Vibur', cursive;
+	font-size: 1em;
+	text-align: justify;
+	text-indent: 5em;
+	font-variant: normal;
+}
+
+a, h1, h2, h3{
+
+	font-family: 'Vibur', cursive;
+	font-size: 1em;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+#menu {
+
+	border-bottom: white;
+	border-color: white;
+	padding: 1px;
+	
+	border: 0;
+	align-items:center;
+	margin:0 auto;
+
+
+
+	/*style: "bgcolor="white" bordercolor="#ccc" cellspacing="1" cellpadding="10" 
+	border="0" align="center";*/
+}
